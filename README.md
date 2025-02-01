@@ -1,1 +1,1 @@
-# first-project
+# clothing-template
