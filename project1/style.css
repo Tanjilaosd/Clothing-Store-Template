@@ -25,6 +25,7 @@
    align-self: flex-start;
    position: sticky;
    top: 0;
+   overflow-y: scroll;
  
 }
 .right-side{
@@ -89,7 +90,7 @@ details:hover{
 }
 /* -----------------------right side start ------------------------ */
 .right-side{
-    margin: 15px;
+    margin-left: 20px;
     display: flex;
     flex-direction: column;
 }
