@@ -1,1 +1,6 @@
 # Clothing-Store-Template
+ [Here are pictures and prices of diffrent clothing...]
+CLOTHING STORE TEMPLATE
+Here are pictures and prices of diffrent clothing...
+🛠 Skills
+HTML, CSS...
